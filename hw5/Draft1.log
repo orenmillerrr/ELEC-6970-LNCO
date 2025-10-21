@@ -1,0 +1,177 @@
+LTspice 24.1.10 for Windows
+Circuit: D:\Classes\ELEC 6970 - Linear, Nonlinear, Chaotic Oscillators\hw5\Draft1.net
+Start Time: Wed Oct 15 14:50:37 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Instance "u1:M5": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M6": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M1": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M2": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M3": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M4": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M5": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M6": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M1": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M2": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M3": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M4": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+vernier = 0.5
+Gmin = 0.02388
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 0.0247027
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+Gmin = 0.0248472
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 54.7348%
+vernier = 0.015625
+Source Step = 54.5691%
+Source Step = 54.5987%
+Source Step = 54.6283%
+Source Step = 54.6579%
+Source Step = 54.6875%
+vernier = 0.00146484
+Source Step = 54.723%
+Source Step = 54.7674%
+Source Step = 54.8118%
+Source Step = 54.8562%
+Source Step = 54.9006%
+vernier = 0.00219727
+Source Step = 54.9516%
+Source Step = 55.0182%
+Source Step = 55.0848%
+Source Step = 55.1514%
+Source Step = 55.218%
+vernier = 0.0032959
+Source Step = 55.2912%
+Source Step = 55.3911%
+Source Step = 55.4909%
+Source Step = 55.5908%
+Source Step = 55.6907%
+vernier = 0.00494385
+Source Step = 55.7956%
+Source Step = 55.9454%
+Source Step = 56.0952%
+Source Step = 56.245%
+Source Step = 56.3948%
+Source Step = 56.5446%
+vernier = 0.00741577
+Source Step = 56.7694%
+Source Step = 56.9941%
+Source Step = 57.2188%
+Source Step = 57.4435%
+Source Step = 57.6682%
+vernier = 0.0111237
+Source Step = 57.9941%
+Source Step = 58.3312%
+Source Step = 58.6682%
+Source Step = 59.0053%
+Source Step = 59.3424%
+vernier = 0.0166855
+Source Step = 59.8143%
+Source Step = 60.3199%
+Source Step = 60.8256%
+Source Step = 61.3312%
+Source Step = 61.8368%
+vernier = 0.0250282
+Source Step = 62.5194%
+Source Step = 63.2778%
+Source Step = 64.0362%
+Source Step = 64.7947%
+Source Step = 65.5531%
+vernier = 0.0375423
+Source Step = 66.5391%
+Source Step = 67.6767%
+Source Step = 68.8144%
+Source Step = 69.952%
+Source Step = 71.0897%
+vernier = 0.0563135
+Source Step = 72.5117%
+Source Step = 74.2182%
+Source Step = 75.9247%
+Source Step = 77.6311%
+Source Step = 79.3376%
+vernier = 0.0844703
+Source Step = 81.3854%
+Source Step = 83.9451%
+Source Step = 86.5048%
+Source Step = 89.0645%
+Source Step = 90.8723%
+vernier = 0.00131985
+Source Step = 90.8963%
+Source Step = 90.9363%
+Source Step = 90.9763%
+Source Step = 91.0163%
+Source Step = 91.0562%
+vernier = 0.00197977
+Source Step = 91.1082%
+Source Step = 91.1682%
+Source Step = 91.2282%
+Source Step = 91.2882%
+Source Step = 91.3482%
+vernier = 0.00296966
+Source Step = 91.4232%
+Source Step = 91.5132%
+Source Step = 91.6032%
+Source Step = 91.6932%
+Source Step = 91.7832%
+vernier = 0.00445449
+Source Step = 91.8912%
+Source Step = 92.0261%
+Source Step = 92.1611%
+Source Step = 92.2961%
+Source Step = 92.4311%
+vernier = 0.00668173
+Source Step = 92.5863%
+Source Step = 92.7888%
+Source Step = 92.9913%
+Source Step = 93.1938%
+Source Step = 93.3962%
+vernier = 0.0100226
+Source Step = 93.619%
+Source Step = 93.9227%
+Source Step = 94.2264%
+Source Step = 94.5301%
+Source Step = 94.8338%
+vernier = 0.0150339
+Source Step = 95.1527%
+Source Step = 95.6083%
+Source Step = 96.0639%
+Source Step = 96.5194%
+Source Step = 96.975%
+Source Step = 97.4306%
+vernier = 0.0225508
+Source Step = 98.1139%
+Source Step = 98.7973%
+Source Step = 99.4807%
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.788 seconds.
+
+Files loaded:
+D:\Classes\ELEC 6970 - Linear, Nonlinear, Chaotic Oscillators\hw5\Draft1.net
+C:\Users\odm0003\AppData\Local\LTspice\lib\sub\ADI.lib
+
+t1: time=0.00114220749326 at 0.00114220749326
+t2: time=0.00132143809215 at 0.00132143809215
+freq: 1/(t2-t1)=5579.40444413
